@@ -1,0 +1,15 @@
+git config --global user.name "Serg"
+
+git config --global user.email "test@tes"
+
+git init
+
+git add .
+
+git commit -m "add connect"
+
+git remote add pb http://
+
+
+
+
